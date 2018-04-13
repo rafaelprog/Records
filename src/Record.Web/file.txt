@@ -1,0 +1,6 @@
+2017-09-15 11:17:12.1393|INFO|Record.Util.RecordLogger|Item Adicionado
+2017-09-15 11:27:11.1729|INFO|Record.Util.RecordLogger|Item Adicionado
+2017-09-15 14:39:37.3743|INFO|Record.Util.RecordLogger|Item Adicionado
+2017-09-18 23:23:27.2574|INFO|Record.Util.RecordLogger|Item Adicionado
+2018-04-12 21:30:12.3463|INFO|Record.Util.RecordLogger|Item Adicionado
+2018-04-12 22:45:45.5681|INFO|Record.Util.RecordLogger|Item Adicionado

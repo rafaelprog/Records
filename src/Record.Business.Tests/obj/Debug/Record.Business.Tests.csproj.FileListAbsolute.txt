@@ -1,0 +1,95 @@
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.config
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.Tests.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.Tests.pdb
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Entities.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.DAL.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Util.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.pdb
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Entities.pdb
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.DAL.pdb
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Util.pdb
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.xml
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.config
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.Tests.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.Tests.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Entities.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.DAL.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Util.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Entities.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.DAL.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Util.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.xml
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.Tests.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.Tests.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Entities.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.DAL.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Util.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Business.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Entities.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.DAL.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\Record.Util.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\bin\Debug\NLog.xml
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.csproj.CopyComplete
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Business.Tests\obj\Debug\Record.Business.Tests.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\NLog.config
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Business.Tests.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Business.Tests.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Business.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Entities.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.DAL.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Util.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\NLog.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Business.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Entities.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.DAL.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\Record.Util.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\bin\Debug\NLog.xml
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\obj\Debug\Record.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\obj\Debug\Record.Business.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\obj\Debug\Record.Business.Tests.csproj.CopyComplete
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\obj\Debug\Record.Business.Tests.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Business.Tests\obj\Debug\Record.Business.Tests.pdb

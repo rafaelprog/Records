@@ -1,0 +1,16 @@
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Entities\bin\Debug\Record.Entities.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Entities\bin\Debug\Record.Entities.pdb
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\bin\Debug\Record.Entities.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\bin\Debug\Record.Entities.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\bin\Debug\Record.Entities.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\bin\Debug\Record.Entities.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Entities\obj\Debug\Record.Entities.pdb

@@ -1,0 +1,44 @@
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\bin\Debug\NLog.config
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\bin\Debug\Record.Util.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\bin\Debug\Record.Util.pdb
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\bin\Debug\NLog.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\bin\Debug\NLog.xml
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.RecordInternal.resources
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csproj.GenerateResource.Cache
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.dll
+C:\Users\Familia\Documents\Visual Studio 2017\Projects\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\NLog.config
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\Record.Util.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\Record.Util.pdb
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\NLog.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\NLog.xml
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.RecordInternal.resources
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.dll
+C:\Users\Familia\Desktop\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\NLog.config
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\Record.Util.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\Record.Util.pdb
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\NLog.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\bin\Debug\NLog.xml
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csprojResolveAssemblyReference.cache
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.RecordInternal.resources
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csproj.GenerateResource.cache
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.csproj.CopyComplete
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.dll
+C:\Users\Mind\Desktop\GeneralClaims.Record\GeneralClaims.Record\GeneralClaims.Record\Record.Util\obj\Debug\Record.Util.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\bin\Debug\NLog.config
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\bin\Debug\Record.Util.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\bin\Debug\Record.Util.pdb
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\bin\Debug\NLog.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\bin\Debug\NLog.xml
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\obj\Debug\Record.Util.csprojResolveAssemblyReference.cache
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\obj\Debug\Record.Util.RecordInternal.resources
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\obj\Debug\Record.Util.csproj.GenerateResource.cache
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\obj\Debug\Record.Util.csproj.CoreCompileInputs.cache
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\obj\Debug\Record.Util.csproj.CopyComplete
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\obj\Debug\Record.Util.dll
+C:\Users\Mind\source\repos\RecordsCRUD-Rafael\Record.Util\obj\Debug\Record.Util.pdb
